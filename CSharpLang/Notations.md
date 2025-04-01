@@ -6,6 +6,7 @@
 |-- Fundamentos
 ```
 ## CSharp Caracteristicas
+- Criada pelo Anders Hjlsberg (Mesmo criador do TypeScript)
 - Linguagem Compilada
 - Linguagem Orientada a Objeto
 - Fortemente Tipada
